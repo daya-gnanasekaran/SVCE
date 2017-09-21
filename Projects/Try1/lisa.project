@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+
+<Project>
+<Name>Try1</Name>
+<Version>V2</Version>
+<Notes></Notes>
+<ActiveConfig>{{LISA_RELATIVE_PROJ_ROOT}}/Configs/project.config</ActiveConfig>
+<LastModified>1506004622456</LastModified>
+</Project>
